@@ -1,7 +1,0 @@
-opencv-python-headless
-torch
-torchvision
-basicsr
-gfpgan
-realesrgan
-streamlit>=1.50
