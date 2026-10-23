@@ -1,0 +1,7 @@
+opencv-python
+torch
+torchvision
+basicsr
+gfpgan
+realesrgan
+streamlit>=1.50
